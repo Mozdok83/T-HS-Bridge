@@ -49,7 +49,7 @@ T-HS Bridge — портативное приложение (180 МБ), кото
 
 - Telegram: @tony_hs
 - Email: admin@t-hs.ru
-
+- Подробнее тут: https://tenchat.ru/5196645
 
 ## Автор
 
