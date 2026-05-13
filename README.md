@@ -4,7 +4,7 @@
 
 ## 🎬 Демонстрация работы
 
-[![Смотреть демо T-HS Bridge](https://img.youtube.com/vi/XCaDSF_ov4Y/0.jpg)](https://youtu.be/XCaDSF_ov4Y)
+тут:https://tenchat.ru/ths_bridge
 
 ## О проекте
 
@@ -49,7 +49,7 @@ T-HS Bridge — портативное приложение (180 МБ), кото
 
 - Telegram: @tony_hs
 - Email: admin@t-hs.ru
-- Подробнее тут: https://tenchat.ru/5196645
+
 
 ## Автор
 
